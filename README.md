@@ -433,12 +433,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenAI](https://openai.com/) - LLM provider
 - [Streamlit](https://streamlit.io/) - Dashboard framework
 
-## 📚 Documentation
 
-- [Architecture Guide](docs/ARCHITECTURE.md)
-- [API Reference](docs/API.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [Best Practices](docs/BEST_PRACTICES.md)
 
 ## 🗺️ Roadmap
 
@@ -451,13 +446,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Multi-tenancy support
 - [ ] Vector store integration for context management
 
-## 📧 Support
-
-- 📖 [Documentation](https://docs.intelligent-agent-ops.com)
-- 💬 [Discord Community](https://discord.gg/iaops)
-- 🐛 [Issue Tracker](https://github.com/yourusername/intelligent-agent-ops/issues)
-- 📧 Email: support@intelligent-agent-ops.com
-
----
-
-**Built with ❤️ for the LLMOps community**
