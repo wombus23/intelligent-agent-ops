@@ -1,0 +1,29 @@
+# Core Dependencies
+openai>=1.12.0
+groq>=0.4.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# LangChain and Tracing (optional - comment out if not needed)
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langsmith>=0.0.87
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Async Support
+aiohttp>=3.9.0
+
+# UI Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Testing (optional - install separately if needed)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Utilities
+tqdm>=4.66.0
+colorama>=0.4.6
