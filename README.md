@@ -65,7 +65,7 @@ IAOps is an end-to-end framework designed for production LLM applications that r
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/intelligent-agent-ops.git
+git clone https://github.com/wombus23/intelligent-agent-ops.git
 cd intelligent-agent-ops
 
 # Create virtual environment
